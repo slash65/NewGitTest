@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Lash's Glass</title>
+	<!-- TemplateEndEditable -->
+	<meta name="description" content="Glass and Window shop in Northern California">
+	<meta name="author" content="Shane Lash">
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="../stylesheets/base.css">
+	<link rel="stylesheet" href="../stylesheets/skeleton.css">
+	<link rel="stylesheet" href="../stylesheets/layout.css">
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="../images/favicon.ico">
+	<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+<body>
+	<!-- Primary Page Layout
+	================================================== -->
+	<div class="container">
+<!--Start Header-->
+		<div class="seven columns header center">
+			<img class="scale-with-grid" src="../images/logo.png">
+		</div>
+		<div class="three columns header center">
+			<h1>Our Hours</h1>
+			<span class="headerText">
+            	Mon-Fri 
+                <br /> 
+                8 A.M. - 5 P.M.
+            </span>
+		</div>
+		<div class="three columns header center">
+			<h1>Call Us</h1>
+			<span class="headerText">
+            	(530) 894-6446 
+				<br />
+				(888)700-6446
+            </span>
+		</div>
+		<div class="three columns header center">
+			<h1>Swing By</h1>
+			<span class="headerText"> 
+            	2242 Park Ave
+      			<br />
+     			Chico, CA 95928
+      			<br />
+          		<a href="http://maps.google.com/maps?q=Lash's+Glass,+2242+Park+Avenue,+Chico,+CA&amp;hl=en&amp;ll=39.716967,-121.819324&amp;spn=0.007056,0.016512&amp;sll=39.716967,-121.819239&amp;sspn=0.007089,0.016512&amp;oq=Lash's+Glass&amp;hq=Lash's+Glass,&amp;hnear=2242+Park+Ave,+Chico,+Butte,+California+95928&amp;t=m&amp;z=17">Directions</a> 
+        	</span>
+		</div>
+	<!--Start Nav-->
+		<div class="twohalf columns center "><a href="../index.html" class="navLink imgHide">Home</a></div>
+		<div class="twohalf columns center"><a href="../commercial.html" class="navLink imgHide">Commercial</a></div>
+		<div class="twohalf columns center"><a href="../automotive.html" class="navLink imgHide">Auto</a></div>
+		<div class="twohalf columns center"><a href="../windows.html" class="navLink imgHide">Windows</a></div>
+		<div class="twohalf columns center"><a href="../showers.html" class="navLink imgHide">Showers</a></div>
+		<div class="twohalf columns center"><a href="../glass.html" class="navLink imgHide">Glass</a></div>
+		<div class="twohalf columns center"><a href="../contactUs.html" class="navLink imgHide">Contact</a></div>
+	<!--End Nav-->
+<!--End Header-->
+<!--Start Content--><!-- TemplateBeginEditable name="Main Content" -->
+<div class="six columns">
+  <div class="imageRotator">
+    <!-- Begin DWUser_EasyRotator -->
+        <script type="text/javascript" src="easy_rotator.min.js"></script>
+        <div class="dwuserEasyRotator" style="width: 100%; height: 400px; margin-top: 25px; position: relative; text-align: left;" data-erconfig="{autoplayEnabled:true, lpp:'102-105-108-101-58-47-47-47-85-115-101-114-115-47-83-104-97-110-101-47-68-111-99-117-109-101-110-116-115-47-69-97-115-121-82-111-116-97-116-111-114-80-114-101-118-105-101-119-47-112-114-101-118-105-101-119-95-115-119-102-115-47', autoplayDelay:3700, wv:1}" data-ername="Lash's Glass" data-ertid="{l4han2kd8z1938888066331}"   data-erResponsiveRatio="{4:5}">
+          <div data-ertype="content" style="display: none;"><ul data-erlabel="Main Category">
+	<li>
+		<img class="main" src="images/homepage/1.jpg" /> <img class="thumb" src="images/homepage/1.jpg" />
+	</li>
+	<li>
+		<img class="main" src="images/homepage/2.jpg" /> <img class="thumb" src="images/homepage/2.jpg" />
+	</li>
+	<li>
+		<img class="main" src="images/homepage/3.jpg" /> <img class="thumb" src="images/homepage/3.jpg" />
+	</li>
+	<li>
+		<img class="main" src="images/homepage/4.jpg" /> <img class="thumb" src="images/homepage/4.jpg" />
+	</li>
+	<li>
+		<img class="main" src="images/homepage/5.jpg" /> <img class="thumb" src="images/homepage/5.jpg" />
+	</li>
+	<li>
+		<img class="main" src="images/homepage/6.jpg" /> <img class="thumb" src="images/homepage/6.jpg" />
+	</li>
+</ul>
+</div>
+          <div data-ertype="layout" data-ertemplatename="NONE" style="">
+            <div class="erimgMain" style="position: absolute; left:0;right:0;top:0;bottom:25px;" data-erconfig="{___numTiles:3, scaleMode:'fillArea', imgType:'main', alwaysPreviousButton:true, __loopNextButton:false, __arrowButtonMode:'rollover'}">
+              <div class="erimgMain_slides erFixCSS3" style="position: absolute; left:15px; top:0; bottom:0; right:15px;">
+                <div class="erimgMain_slide">
+                  <div class="erimgMain_img" style="position: absolute; left:0;right:0;top:0;bottom:0;"></div>
+                </div>
+              </div>
+              <div class="erimgMain_arrowLeft" style="position:absolute; left: -15px; top: 50%; margin-top: -15px;" data-erconfig="{image:'circleCozy', image2:'circleCozy'}"></div>
+              <div class="erimgMain_arrowRight" style="position:absolute; right: -15px; top: 50%; margin-top: -15px;" data-erconfig="{image:'circleCozy', image2:'circleCozy'}"></div>
+            </div>
+            <div class="erdots" style="overflow: hidden; margin: 0; font-size: 10px; font-family: 'Lucida Grande', 'Lucida Sans', Arial, _sans; color: #FFF; position: absolute; left:0; right:0; bottom:5px;" data-erconfig="{showText:false}" align="center">
+              <div class="erdots_wrap" style="wasbackground-color: #CFC; float: none;" align="left">
+                <!-- modify the float on this element to make left/right/none=center aligned. -->
+                <span class="erdots_btn_selected" style="padding-left: 0; width: 12px; height: 12px; display: inline-block; text-align: center; vertical-align: middle; line-height: 20px; margin: 0 0 0 6px; cursor: default; background: url(http://easyrotator.s3.amazonaws.com/1/i/rotator/dots/export/12_8_666empty.png) top left no-repeat;"> &nbsp; </span> <span class="erdots_btn_normal" style="padding-left: 0; width: 12px; height: 12px; display: inline-block; text-align: center; vertical-align: middle; line-height: 20px; margin: 0 0 0 6px; cursor: pointer; background: url(http://easyrotator.s3.amazonaws.com/1/i/rotator/dots/export/12_8_666.png) top left no-repeat;"> &nbsp; </span> <span class="erdots_btn_hover" style="padding-left: 0; width: 12px; height: 12px; display: inline-block; text-align: center; vertical-align: middle; line-height: 20px; margin: 0 0 0 6px; cursor: pointer; background: url(http://easyrotator.s3.amazonaws.com/1/i/rotator/dots/export/12_8_CCC.png) top left no-repeat;"> &nbsp; </span> </div>
+            </div>
+            <div class="erabout erFixCSS3" style="color: #FFF; text-align: left; background: #000; background:rgba(0,0,0,0.93); border: 2px solid #FFF; padding: 20px; font: normal 11px/14px Verdana,_sans; width: 300px; border-radius: 10px; display:none;"> This <a style="color:#FFF;" href="http://www.dwuser.com/easyrotator/" target="_blank">jQuery slider</a> was created with the free <a style="color:#FFF;" href="http://www.dwuser.com/easyrotator/" target="_blank">EasyRotator</a> software from DWUser.com. <br />
+              <br />
+              Need a powerful <a style="color:#FFF;" href="http://www.dwuser.com/flashslideshow/" target="_blank">Flash slideshow</a> creator with built-in iPhone/iPad/Android support?  EasyRotator is supported by the <a style="color:#FFF;" href="http://www.dwuser.com/flashslideshow/" target="_blank">XML Flash Slideshow v4 Software</a>. <br />
+              <br />
+              <a style="color:#FFF;" href="#" class="erabout_ok">OK</a> </div>
+            <noscript>
+              Rotator powered by <a href="http://www.dwuser.com/easyrotator/">EasyRotator</a>, a free and easy jQuery slider builder from DWUser.com.  Please enable JavaScript to view.
+            </noscript>
+            <script type="text/javascript">/*Avoid IE gzip bug*/(function(b,c,d){try{if(!b[d]){b[d]="temp";var a=c.createElement("script");a.type="text/javascript";a.src="http://easyrotator.s3.amazonaws.com/1/js/nozip/easy_rotator.min.js";c.getElementsByTagName("head")[0].appendChild(a)}}catch(e){alert("EasyRotator fail; contact support.")}})(window,document,"er_$144");</script>
+          </div>
+        </div>
+        <!-- End DWUser_EasyRotator -->
+    <!--end .imageRotator-->
+  </div>
+</div>
+<div class="ten columns">
+  <p> Lash's Glass  is located in Chico, CA, and is your full service glass shop.  We have been serving the north states glass needs for over 20 years, specializing in Residential, Commercial, and Automotive glass. We have qualified, clean cut technicians, trained to install and repair all of your glass and window projects.
+  <p> <a href="../residential.html">Our Residential </a>work includes retro-fit &amp; new-construction <a href="../windows.html">windows</a>, broken single and dual pane glass unit replacements, patio-door repair and replacement, framed and frameless <a href="../showers.html">shower doors</a>, <a href="../glass.html">mirrors, cabinet glass, shelves, tabletops</a>, and screen repairs. </p>
+  <p> <a href="../automotive.html">For auto glass</a>, we install and repair windshields, door glass, door and rear view mirrors, back glass, regulators, boat glass, and numerous other custom projects. We can service your car glass at our shop, or we can come to you.
+    We will work with all major insurance companys, and get your car or truck back on the road in no time.</p>
+  <p> <a href="../commercial.html">For Commercial</a> application, we install single and dual glaze storefront systems, fire safe doors, and pass-thru systems. We also install and maintain automatic doors, with two ANSI certified inspectors on staff. </p>
+</div>
+<!-- TemplateEndEditable --><!--End Content-->
+<!--Start Footer-->
+<!--Start Nav-->
+      <div class="twohalf columns center"><a href="../index.html" class="FooternavLink">Home</a></div>
+		<div class="twohalf columns center"><a href="../commercial.html" class="FooternavLink">Commercial</a></div>
+		<div class="twohalf columns center"><a href="../automotive.html" class="FooternavLink">Auto</a></div>
+		<div class="twohalf columns center"><a href="../windows.html" class="FooternavLink">Windows</a></div>
+		<div class="twohalf columns center"><a href="../showers.html" class="FooternavLink">Showers</a></div>
+		<div class="twohalf columns center"><a href="../glass.html" class="FooternavLink">Glass</a></div>
+		<div class="twohalf columns center"><a href="../contactUs.html" class="FooternavLink">Contact</a></div>
+    	<div class="sixteen columns center">
+        	<h3>Copyright © 2014 Lash's Glass</h3>
+    	</div>
+<!--End Footer-->
+	</div><!-- container -->
+<!-- End Document
+================================================== -->
+</body>
+</html>

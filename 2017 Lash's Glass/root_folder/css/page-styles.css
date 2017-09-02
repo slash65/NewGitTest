@@ -1,0 +1,210 @@
+/*
+Lash's Glass
+Shane Lash
+shanelash65@gmail.com
+
+		Color
+		Nav
+		Footer
+		Tools
+		Page Specific
+			Homepage
+
+Colors: 
+	* Blue #3399cc
+	* Green #038040
+*/
+
+body {
+  padding-top: 70px;
+}
+
+		/*Color*/
+
+
+
+
+		/*Nav*/
+
+a.navbar-brand img {
+	position:relative;
+	top: -7px;
+	width: 90px;
+	height: auto;
+}
+nav.navbar.navbar-default.navbar-fixed-top {
+background-color: #fdfdfd;
+}
+.navbar.navbar-default.navbar-fixed-top .container #navbar .nav.navbar-nav li a,
+.navbar.navbar-default.navbar-fixed-top .container #navbar .nav.navbar-nav li a:visited {
+	color: #3399cc;
+}
+.navbar.navbar-default.navbar-fixed-top .container #navbar .nav.navbar-nav li a:hover,
+.navbar.navbar-default.navbar-fixed-top .container #navbar .nav.navbar-nav li a:active {
+	color: #038040;
+}
+.navbar-toggle.collapsed .icon-bar {
+	background-color: #3399cc;
+	border-color: #3399cc;
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+		/*Footer*/
+
+div.container-fluid.footer {
+	background-color: #f9f9f9;
+	margin-top: 20px;
+	padding-top: 40px;
+}
+div.container-fluid.footer ul  {
+	list-style-type: none;
+}
+
+div.container-fluid.footer ul li {
+	display: block;
+	margin: 0 auto;
+	width: auto;
+
+}
+@media (min-width: 1200px) {
+
+	div.container-fluid.footer {
+		padding-left: 10%;
+	}
+}
+@media (max-width: 768px) {
+	div.footer ul {
+		display: block;
+		margin: 0 auto;
+		height: 150px;
+	}
+}
+div.container-fluid.footer ul li a,
+div.container-fluid.footer ul li a:visited{
+	color: #808080;
+}
+div.container-fluid.footer ul li a:hover,
+div.container-fluid.footer ul li a:active{
+	color: #3399cc;
+}
+.social-icon {
+	width: 50px;
+	height: auto;
+	height: auto;
+	float: left;
+}
+
+		/*Tools*/
+
+
+img.respond {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.center {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.blue {
+	color:#3399cc;
+}
+.green {
+	color:#038040;
+}
+.block {
+	display: block;
+}
+.page-description {
+	display: block;
+	margin-top: 50px;
+}
+.feature-image {
+	display: block;
+	margin-top: 60px;
+}
+
+		/*Page Specific*/
+
+/*Home Page*/
+
+div.jumbotron h1 {
+	color: #038040;}
+div.jumbotron {
+	margin-top: 25px;
+}
+div.col-sm-4.text-right {
+	margin-top: 50px;
+}
+ div.col-xs-6.col-sm-12.sidebar {
+	height: 100px;
+}
+
+div.col-sm-4.text-right h4{
+	margin-top: 30px;
+}
+@media (max-width: 768px) {
+	a.btn.btn-lg.btn-primary{
+		display: block;
+		margin: 0 auto;
+		width: 175px;
+	}
+	div.col-sm-4.text-right {
+		text-align: center;
+	}
+	a.square span {
+		font-size: 14pt;
+	}
+}
+div.row div.col-sm-4 h3.center span {
+	text-shadow: 0 1px 2px rgba(0,0,0,.6);
+	opacity: 0.6;
+	position: relative;
+	top: -35px;
+	text-transform: uppercase;
+}
+div.row a.square div.col-sm-4 h3,
+div.row a.square div.col-sm-4 h3:visited {
+	color: #fff;
+	opacity: 0.9;
+}
+div.row a.square div.col-sm-4 h3:active,
+div.row a.square div.col-sm-4 h3:hover {
+	color: #038040;
+	opacity: 1;
+}
+
+/*Window Repair*/
+
+img.splash {
+	max-width: 400px;
+	margin: 25px auto;
+}
+div.col-xs-12.col-sm-4 img.respond.center {
+	max-width: 300px;
+}
+
+div.col-xs-12.col-sm-7 h2 {
+	margin-top: 50px;
+} 
+div.jumbotron div.col-sm-8 h2.center {
+	position: relative;
+	top:-80px;
+	color: #fff;
+	opacity: 0.7;
+	background-color: #f0f0f0;
+}
+
+/*Frameless Showers*/
+
+div.frameless h2.center {
+	display: block;
+	margin-bottom: 25px;
+}
+div.frameless ul li {
+	margin-left: 25px;
+}
